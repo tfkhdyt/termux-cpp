@@ -8,4 +8,7 @@ if [[ -f "${file%.*}" ]]; then
 	clear
 	./${file%.*}
 	rm $file ${1%.*}
+else
+	clear
+	rm $file
 fi
