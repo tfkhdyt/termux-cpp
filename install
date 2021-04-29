@@ -4,5 +4,6 @@ mkdir ~/.tcp/
 pkg install clang
 cd ~/termux-c++
 cp tcp $PREFIX/bin
+clear
 echo "Termux C++ berhasil di-install!"
 echo 'Cara pakai: ketik "tcp namaFile.cpp" untuk memulai proses kompilasi'
