@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 clear
-mkdir .tcp
+mkdir ~/.tcp/
 pkg install clang
 cp tcp $PREFIX/bin
 clear
