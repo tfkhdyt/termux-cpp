@@ -1,5 +1,5 @@
 # C++ Compiler for Termux
-[![banner-termux-java.jpg](https://i.postimg.cc/c49CbwtL/banner-termux-java.jpg)](https://postimg.cc/QH7jBBq2)<br>
+[![banner-tcp.jpg](https://i.postimg.cc/HWfXCf7k/banner-tcp.jpg)](https://postimg.cc/Lh3ntQTc)
 Skrip ini berfungsi untuk meng-compile dan meng-execute program C++ di Termux.
 <br>
 <p align=center>
