@@ -18,7 +18,7 @@ Skrip ini berfungsi untuk meng-compile dan meng-execute program C++ di Termux.
 
 ## Instalasi
 ```Bash
-git clone https://github.com/tfkhdyt/termux-c++.git && cd termux-c++ && ./install
+git clone https://github.com/tfkhdyt/termux-cpp.git && cd termux-cpp && ./install
 ```
 ## Cara penggunaan
 ```Bash
