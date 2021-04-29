@@ -12,6 +12,7 @@ Skrip ini berfungsi untuk meng-compile dan meng-execute program C++ di Termux.
   <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="30" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a>
   <a href="https://www.linkedin.com/mwlite/in/taufik-hidayat-6793aa200"><img height="28" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
 </p>
+
 ## Requirements
 - <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a>
 - `git (pkg install git)`
