@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 clear
 file=$1
-cp $file ~/termux-c++/
-cd ~/termux-c++
+cp $file ~/.tcp/
+cd ~/.tcp
 g++ $file -o ${file%.*}
 if [[ -f "${file%.*}" ]]; then
 	clear
