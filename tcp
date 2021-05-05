@@ -3,7 +3,9 @@ clear
 file=$1
 cp $file ~/.tcp/
 cd ~/.tcp
+echo "Proses sedang berjalan..."
 g++ $file -o ${file%.*}
+clear
 if [[ -f "${file%.*}" ]]; then
 	clear
 	./${file%.*}
